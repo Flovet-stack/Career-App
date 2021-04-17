@@ -1,9 +1,7 @@
 section {
     /* background:#17A0E4; */
-    background-image: url('/assets/images/our-careers-bg.svg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
+    background-image: url('/assets/images/our-career-bg.svg');
+    /* height: 50vh; */
     padding: 180px 0;
     color: #fff;
 }
@@ -30,17 +28,4 @@ h1 {
     .hero-text {
         margin-top: 180px;
     }
-}
-
-.career-explained img {
-    width: 90%;
-}
-
-.career-explained h1 {
-    font-size: 45px;
-}
-
-.career-explained p {
-    font-size: 18px;
-    margin: 2rem 0;
 }
